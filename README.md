@@ -140,6 +140,5 @@ git pull
 [![雷元素](https://github-readme-stats.vercel.app/api/pin/?username=lc-hongdou&repo=lei&show_owner=true)](../../../lei)
 [![岩元素](https://github-readme-stats.vercel.app/api/pin/?username=lc-hongdou&repo=yan&show_owner=true)](../../../yan)
 [![草元素](https://github-readme-stats.vercel.app/api/pin/?username=lc-hongdou&repo=cao&show_owner=true)](../../../cao)
-[![风元素](https://github-readme-stats.vercel.app/api/pin/?username=lc-hongdou&repo=feng&show_owner=true)](../../../feng)
 
 </details>

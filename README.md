@@ -24,7 +24,7 @@
 
 <details><summary>展开</summary>
 
-此库提供由我与他人（主要为椰奶抠图大佬）扣制的自主整理群文件上传的角色面板图<br>
+> 此库提供由我与他人（主要为椰奶抠图大佬）扣制的自主整理群文件上传的角色面板图<br>
 整理了很久把格式换成webp，主要是想回馈群友，服务器图片一张张放上去太难了<br>
 一张张核对基本没有重复的（肝开始疼了），并且进行了[‘文件夹+序号’的重命名](./rename.bat)排序<br>
 如果您想为此仓库贡献<br>
@@ -69,22 +69,25 @@ Yunzai-bot/plugins/miao-plugin/resources/profile/super-character
 #### 更新仓库图片
 
 <details><summary>展开</summary>
-- 在上面位置输入下面指令更新图片，先clone再更新<br>
 
+在上面位置输入下面指令更新图片，先clone再更新<br>
 ```
 git pull
 ```
 另外更新图片频率取决于作者忙不忙，有需要可以进群求帮助<br>
+
 </details>
 
 #### 不更新某些角色图片
 
 <details><summary>展开</summary>
+
 在.gitgnore文件填写图库路径，如：
 ```
 /罗莎莉亚
 /优菈
 ```
+
 </details>
 
 #### 示例

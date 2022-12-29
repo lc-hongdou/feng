@@ -1,18 +1,14 @@
 <p align="center">
-  <a href="https://github.com/lc-hongdou/gallery">
-    <img width="600" src="(https://s2.loli.net/2022/12/30/ek6XGmiVNPsIpqA.png)">
-  </a>
 
-  # 喵喵插件（miao-plugin）角色面板图库
-  [![访问量](https://profile-counter.glitch.me/lc-hongdou-feng/count.svg)](https://github.com/lc-hongdou/feng)
-
+  <a href="https://smms.app/image/RCxPb7rk6TqI95G" target="_blank"><img src="https://s2.loli.net/2022/12/30/RCxPb7rk6TqI95G.jpg" ></a>
+  
 </p>
-
-
-
+# 喵喵插件（miao-plugin）角色面板图库
+  [![访问量](https://profile-counter.glitch.me/lc-hongdou-feng/count.svg)](https://github.com/lc-hongdou/feng)
+  
 #### 介绍❤❤❤❤❤
 - 用于`Yunzai-Bot`V3_`喵喵插件`（miao-plugin）的角色面板webp格式的图库<br>
-由于占用的原因，本仓库只包含旅行者
+由于占用的原因，本仓库只包风元素角色
 > 其他角色的请移步我的<br>
 ☞[水元素](https://github.com/lc-hongdou/shui)
 ☞[火元素](https://github.com/lc-hongdou/huo)
@@ -79,6 +75,13 @@ git pull
 ```
 另外更新图片频率取决于作者忙不忙，有需要可以进群求帮助<br>
 </details>
+
+#### 不更新某些角色图片
+在.gitgnore文件填写图库路径，如：
+```
+/罗莎莉亚
+/优菈
+```
 
 #### 示例
 

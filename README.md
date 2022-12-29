@@ -1,6 +1,6 @@
 <p align="center">
 
-  <a href="https://smms.app/image/RCxPb7rk6TqI95G" target="_blank"><img src="https://s2.loli.net/2022/12/30/RCxPb7rk6TqI95G.jpg" ></a>
+  <a href="https://github.com/lc-hongdou/gallery" target="_blank"><img src="https://s2.loli.net/2022/12/30/RCxPb7rk6TqI95G.jpg" ></a>
   
   # 喵喵插件（miao-plugin）角色面板图库
   [![访问量](https://profile-counter.glitch.me/lc-hongdou-feng/count.svg)](https://github.com/lc-hongdou/feng)

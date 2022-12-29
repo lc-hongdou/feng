@@ -78,11 +78,14 @@ git pull
 </details>
 
 #### 不更新某些角色图片
+
+<details><summary>展开</summary>
 在.gitgnore文件填写图库路径，如：
 ```
 /罗莎莉亚
 /优菈
 ```
+</details>
 
 #### 示例
 
@@ -130,6 +133,7 @@ git pull
 
 #### 其他图库地址
 
+[![目录](https://github-readme-stats.vercel.app/api/pin/?username=lc-hongdou&repo=gallery&show_owner=true)](../../../gallery)
 [![水元素](https://github-readme-stats.vercel.app/api/pin/?username=lc-hongdou&repo=shui&show_owner=true)](../../../shui)
 [![火元素](https://github-readme-stats.vercel.app/api/pin/?username=lc-hongdou&repo=huo&show_owner=true)](../../../huo)
 [![冰元素](https://github-readme-stats.vercel.app/api/pin/?username=lc-hongdou&repo=bing&show_owner=true)](../../../bing)
@@ -137,9 +141,5 @@ git pull
 [![岩元素](https://github-readme-stats.vercel.app/api/pin/?username=lc-hongdou&repo=yan&show_owner=true)](../../../yan)
 [![草元素](https://github-readme-stats.vercel.app/api/pin/?username=lc-hongdou&repo=cao&show_owner=true)](../../../cao)
 [![风元素](https://github-readme-stats.vercel.app/api/pin/?username=lc-hongdou&repo=feng&show_owner=true)](../../../feng)
-
-
-
-
 
 </details>

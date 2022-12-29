@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/lc-hongdou/gallery">
-    <img width="600" src="https://s2.loli.net/2022/12/30/9wc1568OzShrQpD.jpg">
+    <img width="600" src="(https://s2.loli.net/2022/12/30/ek6XGmiVNPsIpqA.png)">
   </a>
 
   # 喵喵插件（miao-plugin）角色面板图库
-  [![访问量](https://profile-counter.glitch.me/lc-hongdou-gallery/count.svg)](https://github.com/lc-hongdou/gallery)
+  [![访问量](https://profile-counter.glitch.me/lc-hongdou-feng/count.svg)](https://github.com/lc-hongdou/feng)
 
 </p>
 
@@ -40,16 +40,16 @@
 
 拉取链接(选其中一个即可)<br>
 ```
-git clone https://gitclone.com/github.com/lc-hongdou/gallery.git
+git clone https://gitclone.com/github.com/lc-hongdou/feng.git
 ```
 ```
-git clone https://ghproxy.com/https://github.com/lc-hongdou/gallery.git
+git clone https://ghproxy.com/https://github.com/lc-hongdou/feng.git
 ```
 ```
-git clone https://hub.njuu.cf/lc-hongdou/gallery.git
+git clone https://hub.njuu.cf/lc-hongdou/feng.git
 ```
 ```
-git clone https://kgithub.com/lc-hongdou/gallery.git
+git clone https://kgithub.com/lc-hongdou/feng.git
 ```
 
 放在<br>
